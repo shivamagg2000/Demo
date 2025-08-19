@@ -1,4 +1,4 @@
 # Demo
 This is demo repository.
 <br>
-Author - Shivam
+Author - Shivam Aggarwal
